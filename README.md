@@ -22,7 +22,7 @@ The Titanic dataset is a popular dataset used in machine learning and data analy
 
 The Tableau visualization report provides insights into the Titanic dataset through interactive visualizations. It includes exploratory data analysis, demographics of passengers, survival rates, and more.
 
-For access to the Tableau report, please visit [Tableau Titanic Report]([link_to_your_tableau_report](https://github.com/MohamedKhalifa1/TitanicAnalysis/tree/main/Tableau)).
+For access to the Tableau report, please visit the [Tableau directory](https://github.com/MohamedKhalifa1/TitanicAnalysis/tree/main/Tableau).
 
 ## Contact
 
