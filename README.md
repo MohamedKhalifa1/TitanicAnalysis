@@ -11,10 +11,10 @@ The Titanic dataset is a popular dataset used in machine learning and data analy
 1. **Data Overview and Cleaning (SQL):** The SQL scripts used to overview and clean the dataset are located in the `sql` directory.
 
 2. **Machine Learning Models:**
-    - **Logistic Regression:** The Jupyter Notebook `logistic_regression.ipynb` contains the implementation and analysis of logistic regression.
-    - **K-Nearest Neighbors (KNN):** The Jupyter Notebook `knn.ipynb` contains the implementation and analysis of KNN.
-    - **Random Forest:** The Jupyter Notebook `random_forest.ipynb` contains the implementation and analysis of the random forest algorithm.
-    - **Decision Tree:** The Jupyter Notebook `decision_tree.ipynb` contains the implementation and analysis of the decision tree algorithm.
+    - **Logistic Regression:** The Jupyter Notebook `04_modeling.ipynb` contains the implementation and analysis of logistic regression.
+    - **K-Nearest Neighbors (KNN):** The Jupyter Notebook `04_modeling.ipynb` contains the implementation and analysis of KNN.
+    - **Random Forest:** The Jupyter Notebook `04_modeling.ipynb` contains the implementation and analysis of the random forest algorithm.
+    - **Decision Tree:** The Jupyter Notebook `04_modeling.ipynb` contains the implementation and analysis of the decision tree algorithm.
 
 3. **Tableau Reporting:** The Tableau visualization report is available in the `tableau` directory.
 
